@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Diandao (Danny) Wu"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " "
   employer         : "University of California San Diego"
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/diandao-wu-8304b1289/"
+  linkedin         : "diandao-wu-8304b1289"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
