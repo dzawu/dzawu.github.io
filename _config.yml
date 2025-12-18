@@ -25,10 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Diandao (Danny) Wu"
-  
   bio              : "Short biography for the left-hand sidebar"
   employer         : "University of California San Diego"
-  uri              : ucsd.edu
 
   # Academic websites
   academia         : # URL
