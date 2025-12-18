@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: dzawu.github.io/publications/ 
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    
