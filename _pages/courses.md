@@ -3,6 +3,9 @@ layout: archive
 title: "Courses"
 permalink: /course/
 author_profile: true
+redirect_from: 
+  - /courses/
+  - /courses.html
 ---
 
 ## Current Courses
