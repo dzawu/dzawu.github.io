@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Major Courses Taken at UCSD"
-permalink: /course/
+permalink: /courses/
 author_profile: true
 redirect_from: 
   - /courses/
