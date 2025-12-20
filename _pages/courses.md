@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Major Courses Taken at UCSD"
+title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
+
+## **Major Courses Taken at UCSD**
 
 * **ECE 15:** Engineering Computation: Introduction to Programming in C 
 
