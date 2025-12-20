@@ -4,7 +4,6 @@ title: "Major Courses Taken at UCSD"
 permalink: /courses/
 author_profile: true
 redirect_from: 
-  - /courses/
   - /courses.html
 ---
 
