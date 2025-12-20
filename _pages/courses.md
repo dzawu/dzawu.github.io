@@ -1,10 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Major Courses Taken at UCSD"
 permalink: /courses/
 author_profile: true
-redirect_from: 
-  - /courses.html
 ---
 
 * **ECE 15:** Engineering Computation: Introduction to Programming in C 
