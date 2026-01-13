@@ -1,3 +1,9 @@
+---
+title: "ECE 121A: Power Systems Analysis"
+collection: courses
+permalink: /pages/ece121a
+---
+
 ## ECE 121A: Power Systems Analysis and Fundamentals
 
 Electric power generation, distribution, steady-state analysis and economic operation. It provides the fundamentals for advanced courses and engineering practice on electric power systems, smart grid, and electricity economics.
