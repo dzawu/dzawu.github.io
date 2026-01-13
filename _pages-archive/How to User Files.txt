@@ -1,4 +1,0 @@
-The purpose of this archive folder is to temperarily hide elements of my website.
-
-
-To recover elements, just put the .md file back to the original folder.
