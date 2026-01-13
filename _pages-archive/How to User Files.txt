@@ -1,0 +1,6 @@
+The purpose of this archive folder is to temperarily hide elements of my website.
+
+
+To recover elements: 
+	1. put the .md file back to the original folder.
+	2. change navigation.yml file in data folder.
