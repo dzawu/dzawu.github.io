@@ -134,6 +134,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _courses
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
