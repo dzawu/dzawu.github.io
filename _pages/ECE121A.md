@@ -1,7 +1,8 @@
 ---
+layout: single
 title: "ECE 121A: Power Systems Analysis"
 collection: courses
-permalink: /pages/ece121a
+permalink: /pages/ECE121A/
 ---
 
 ## ECE 121A: Power Systems Analysis and Fundamentals
