@@ -26,7 +26,7 @@ author_profile: true
 
 * **ECE 111:** Advanced Digital Design Project
 
-* [**ECE 121A:** Power Systems Analysis and Fundamentals](https://dzawu.github.io/pages/ECE121A/) 
+* [**ECE 121A:** Power Systems Analysis and Fundamentals](https://dzawu.github.io/courses/ECE121A/) 
 
 * **ECE 121B:** Energy Conversion
 
