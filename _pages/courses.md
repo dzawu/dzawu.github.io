@@ -32,7 +32,7 @@ author_profile: true
 
 * **ECE 125A:** Introduction to Power Electronics I
 
-* **ECE 161A:** Introduction to Digital Signal Processing
+* **[ECE 161A:** Introduction to Digital Signal Processing](https://dzawu.github.io/courses/ECE161A/)
 
 * **ECE 161B:** Digital Signal Processing
 
