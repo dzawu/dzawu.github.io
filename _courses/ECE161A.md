@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "ECE 121A: Power Systems Analysis"
+title: "ECE 161A: Introduction to Digital Signal Processing"
 collection: courses
-permalink: /courses/ECE121A/
+permalink: /courses/ECE161A/
 author_profile: true
 ---
-
-## ECE 161A: Introduction to Digital Signal Processing
 
 ### Abstract
 
